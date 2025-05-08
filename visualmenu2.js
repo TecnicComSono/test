@@ -4,7 +4,7 @@ var menu = Object.assign(
   document.body.appendChild(document.createElement("div")),
   {
      innerHTML: '<img src="https://i.ibb.co/9mQdpNKX/image-removebg-preview-1.png" alt="Imagem" style="max-width: 80%; max-height: 80%; height:auto; width:auto;">',
-      style: "position:fixed;top:10px;right:5px;width:180px;padding:8px 12px;border-radius:12px;background:linear-gradient(135deg,rgba(15, 12, 41, 0.7),rgba(48, 43, 99, 0.7),rgba(36, 36, 62, 0.7));color:transparent;font-family:'Segoe UI',sans-serif;font-size:16px;font-weight:600;cursor:pointer;z-index:9999;text-align:left;box-shadow:0 0 2px rgba(0,0,0,0.6);backdrop-filter:blur(4px);transition:all 0.3s ease;opacity:0.6;display:flex;align-items:left;justify-content:center;"
+    style: "position:fixed;top:10px;right:5px;width:180px;padding:8px 12px;border-radius:12px;background:linear-gradient(135deg,rgba(15, 12, 41, 0.7),rgba(48, 43, 99, 0.7),rgba(36, 36, 62, 0.7));color:#fff;font-family:'Segoe UI',sans-serif;font-size:16px;font-weight:600;cursor:pointer;z-index:9999;text-align:left;box-shadow:0 0 2px rgba(0,0,0,0.6);backdrop-filter:blur(4px);transition:all 0.3s ease;display:flex;align-items:left;justify-content:center;"
   },
 );
 
