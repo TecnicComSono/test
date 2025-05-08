@@ -1,5 +1,3 @@
-let version = "Beta"
-
 var apiKey = "AIzaSyCr30K9HoTArlagS4udtIZ9jKmr7guKSe8";
 
 var menu = Object.assign(
